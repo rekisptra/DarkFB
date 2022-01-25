@@ -9,11 +9,10 @@
 <li><code>cd DarkFB</code></li>
 <li><code>python2 DarkFB.py</code></li>
 </ul>
-<br />
+
 # Find Me On
-<ul>
+
 <br />
-<br>
 <p align="center">
   <a href="https://instagram.com/caraatech"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
   <a href="https://wa.link/yja57r"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
